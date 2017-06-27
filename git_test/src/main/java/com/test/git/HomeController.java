@@ -39,6 +39,7 @@ public class HomeController {
 		
 		System.out.println("Hello Dance World");
 		System.out.println("Add java class clone push");
+		System.out.println("World with Git");
 		
 		return "home";
 	}
