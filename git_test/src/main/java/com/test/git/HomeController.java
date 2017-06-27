@@ -38,6 +38,7 @@ public class HomeController {
 		System.out.println("World's End Dancehal");
 		
 		System.out.println("Hello Dance World");
+		System.out.println("Add java class clone push");
 		
 		return "home";
 	}
